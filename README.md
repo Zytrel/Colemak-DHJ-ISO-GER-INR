@@ -7,4 +7,4 @@ Modifications:
 - Invert the number row shift state and make Caps-Lock only affect that row
 - Rearange special (AltGr) keys to match the German QUERTZ-layout (mainly greek characters)
 
-![image](https://github.com/Zytrel/Colemak-DHJ-ISO-GER-INR/blob/b76783bc6a281b097aa5a19d3fdb80ee189ae2f3/colemak_dhj_iso_ger_inr.png)
+![image](https://github.com/Zytrel/Colemak-DHJ-ISO-GER-INR/blob/7aea71ed990caa4acd3e2d2c01af9ef8197f1c69/colemak_dhj_iso_ger_inr.png)
