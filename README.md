@@ -5,6 +5,7 @@ Modifications:
 - Add direct access to German umlauts (äöü) and various proper quotation marks („“/‘’/»«) via AltGr
 - Swap the 'J' and ';/:' keys
 - Rearange special (AltGr) keys to match the German QUERTZ-layout (mainly greek characters)
+
 INR-Version only:
 - Invert the number row shift state and make Caps-Lock only affect that row
 
