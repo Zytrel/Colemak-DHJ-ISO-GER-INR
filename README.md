@@ -1,4 +1,4 @@
-# Colemak-DHJ-ISO-GER-INR
+# Colemak-DHJ-ISO-GER(-INR)
 My personal modification of Colemak-DH (https://colemakmods.github.io/mod-dh/) to better accomodate the German language and ISO-QWERTZ keyboards.
 
 Modifications:
