@@ -1,4 +1,4 @@
-# Colemak-DHJ-ISO-GER(-IC/-INR)
+# Colemak-DHJ-ISO-GER(-NC/-INR)
 My personal modification of Colemak-DH (https://colemakmods.github.io/mod-dh/) to better accomodate the German language and ISO-QWERTZ keyboards.
 
 Modifications:
@@ -6,7 +6,7 @@ Modifications:
 - Swap the 'J' and ';/:' keys.
 - Rearange special (AltGr) keys to match the German QUERTZ-layout (mainly greek characters).
 
-IC-Version only (recommended):
+NC-Version only (recommended):
 - Caps-Lock will only affect the nuber row.
 
 INR-Version only:
