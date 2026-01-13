@@ -6,6 +6,9 @@ Modifications:
 - Swap the 'J' and ';/:' keys
 - Rearange special (AltGr) keys to match the German QUERTZ-layout (mainly greek characters)
 
+IC-Version only:
+- Caps-Lock will only affect the nuber row
+
 INR-Version only:
 - Invert the number row shift state and make Caps-Lock only affect that row
 
